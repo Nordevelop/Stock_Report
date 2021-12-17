@@ -1,1 +1,1 @@
-# Coffee-recipe-machine
+# Repositories if reports of Stock
